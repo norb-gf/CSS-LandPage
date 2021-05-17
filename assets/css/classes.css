@@ -1,5 +1,6 @@
 .whiteBg {
   background: var(--white-color);
+  color: var(--primary-color);
 }
 
 .mainBg {
